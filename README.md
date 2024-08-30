@@ -15,6 +15,8 @@
 ## 입력 데이터
 - data/font
     - 업무 B 입력값
+- 2ali6i.jpg
+    - OCR_paddle_sample 코드 입력값
 ## 결과 데이터
 - df_json+ocr_sample100.pkl
     - 업무 A 결과물
